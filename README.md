@@ -5,6 +5,7 @@
 - php artisan native:serve
 
 # Fix JS Runtime error
+<pre></pre>
 //PATH: ./vendor/NativPhp/electron/resources/js/electron-builder.js
 
 // const isArm64 = process.argv.includes('--arm64');
@@ -16,3 +17,4 @@ const isArm64 = process.platform.includes('arm64');
 const isWindows = process.platform.includes('win32');
 const isLinux = process.platform.includes('linux');
 const isDarwin = process.platform.includes('darwin');
+</pre>
