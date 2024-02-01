@@ -70,3 +70,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 - composer require nativephp/electron
 - php artisan native:install
+- php artisan native:serve
